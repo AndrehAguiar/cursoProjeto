@@ -8,4 +8,5 @@ Confira em: [udemy.com](https://www.udemy.com/course/django-20-aprendendo-os-con
 
 
 Aluno: André Aguiar - Gestor de TI e WEB developer
+[topartes.com](https://topartes.com)
 
