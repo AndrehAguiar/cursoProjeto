@@ -7,6 +7,6 @@ O projeto usado foi criado durante o curso, Django 2.0 - Aprendendo os conceitos
 Confira em: [udemy.com](https://www.udemy.com/course/django-20-aprendendo-os-conceitos-fundamentais/).
 
 
-Aluno: André Aguiar - Gestor de TI e WEB developer
+Aluno: André Aguiar - Gestor de TI e WEB developer.
 [topartes.com](https://topartes.com)
 
