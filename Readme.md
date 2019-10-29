@@ -1,9 +1,26 @@
-#Django 2.0 - Aprendendo os conceitos fundamentais
+# GIT Course - Iniciante.
+
+Este é um repositório teste para aprender como o GIT funciona.
+Saiba mais em [willianjusten.com.br](http://willianjusten.com.br).
 
 O projeto usado foi criado durante o curso, Django 2.0 - Aprendendo os conceitos fundamentais com o Gregory Pacheco.
-Confira em: [udemy.com](https://www.udemy.com/course/django-20-aprendendo-os-conceitos-fundamentais/).
+Confira em: [udemy.com](https://www.udemy.com/course/django-20-aprendendo-os-conceitos-fundamentais)
 
+Aprenda de vez os conceitos fundamentais deste incrível framework
+
+By the numbers
+Skill level: Beginner Level
+Students: 16282
+Languages: Portuguese
+Captions: No
+Lectures: 20
+Video: 3.5 hours
+Features
+Available on iOS and Android
+Description
 Aprenda de vez os conceitos fundamentais deste incrível framework. Veja desde os conceitos de request, ate criação do projeto, estrutura, apps, models, forms, views, urls e muito mais. Veja por que o Django é o maior e melhor framework de desenvolvimento web ágil da atualidade.
+
+
 
 Introdução
 Conceitos
