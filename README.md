@@ -1,4 +1,4 @@
-# GIT Course - Iniciante.
+# Django 2.0 - Aprendendo os conceitos fundamentais
 
 Este é um repositório teste para aprender como o GIT funciona.
 Saiba mais em [willianjusten.com.br](http://willianjusten.com.br).
